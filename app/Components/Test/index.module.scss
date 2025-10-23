@@ -1,0 +1,14 @@
+.swiper_slide {
+    flex: none;
+    .people__card {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      overflow: hidden;
+      height: 140px;
+      background-color: #cecece;
+      border-radius: 11px;
+      border: 1px solid #000;
+    }
+}
